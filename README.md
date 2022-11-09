@@ -1,6 +1,6 @@
 # oscp-notes
 
-I Passed the OSCP in January 2021. These are the notes I took along my journey to achieving it. 
+
 
 ## Table of Contents
 - [Enumeration](#Enumeration)
